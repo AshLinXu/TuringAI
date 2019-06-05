@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "website.httpUrl",
+      "type": "java.lang.String",
+      "description": "Description for website.httpUrl."
+    },
+    {
+      "name": "website.name",
+      "type": "java.lang.String",
+      "description": "Description for website.name."
+    },
+    {
+      "name": "turingAPI.httpUrl",
+      "type": "java.lang.String",
+      "description": "Description for turingAPI.httpUrl."
+    }
+  ]
+}

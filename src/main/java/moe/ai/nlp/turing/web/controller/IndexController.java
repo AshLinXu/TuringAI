@@ -9,7 +9,7 @@ public class IndexController {
 
     @RequestMapping("/index")
     public String index() {
-        return "图灵机器人主页";
+        return "欢迎访问 ";
     }
 
 }
